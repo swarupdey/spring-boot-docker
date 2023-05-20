@@ -55,7 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-docker</finalName>
+		<finalName>spring-boot-docker-intigrationsample</finalName>
 	</build>
 
 </project>
